@@ -1,6 +1,6 @@
-# D-TSVP
+# Dynamic Three-Stage Viewpoint Planner for autonomous exploration in unknown environments with dynamic obstacles
 
-Dynamic Three-Stage Viewpoint Planner for autonomous exploration in unknown environments with dynamic obstacles.
+
 
 ## Overview
 
