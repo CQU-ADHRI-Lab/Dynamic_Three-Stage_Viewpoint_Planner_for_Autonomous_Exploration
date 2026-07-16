@@ -1,4 +1,4 @@
-# Dynamic Three-Stage Viewpoint Planner for autonomous exploration in unknown environments with dynamic obstacles
+# Dynamic Three-Stage Viewpoint Planner for Autonomous Exploration in Unknown Environments with Dynamic Obstacles
 
 
 
